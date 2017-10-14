@@ -1,0 +1,3 @@
+welcome to my git test
+this line is for testing if i can read this file from git whitout adding changes by add neither nor commit -m
+i can read it normally 
