@@ -6,3 +6,4 @@ git status c pour voir s il y a des changements a commiter
 git checkout le dossier a commiter
 git add file 
 git commit -m "message"
+git log historique
