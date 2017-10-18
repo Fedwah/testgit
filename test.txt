@@ -12,4 +12,4 @@ ggit remote add origin https...
 git branch nom_branche creer une nouvelle branche
  git push origin nom_branche pour ajouter une branche au git 
 git remote -v pour voir les origin ou les remotes 
-git remote set-url le_lien_du_new_origin
+git remote set-url origin le_lien_du_new_origin
