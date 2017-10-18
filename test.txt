@@ -7,3 +7,5 @@ git checkout le dossier a commiter
 git add file 
 git commit -m "message"
 git log historique
+git commit --amend -m "msg" changer le msg du dernier commit
+ggit remote add origin https...
