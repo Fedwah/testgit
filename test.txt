@@ -7,3 +7,13 @@ git checkout le dossier a commiter
 git add file 
 git commit -m "message"
 git log historique
+git commit --amend -m "msg" changer le msg du dernier commit
+ggit remote add origin https...
+git branch nom_branche creer une nouvelle branche
+ git push origin nom_branche pour ajouter une branche au git 
+git remote -v pour voir les origin ou les remotes 
+git remote set-url origin le_lien_du_new_origin
+git push origin le_de_branche
+pour fussioner a branche master 
+git chechout master 
+git merge universal
