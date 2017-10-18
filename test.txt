@@ -9,3 +9,5 @@ git commit -m "message"
 git log historique
 git commit --amend -m "msg" changer le msg du dernier commit
 ggit remote add origin https...
+git branch nom_branche creer une nouvelle branche
+ git push origin nom_branche pour ajouter une branche au git 
